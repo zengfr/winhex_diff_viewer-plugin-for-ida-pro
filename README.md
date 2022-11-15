@@ -16,10 +16,10 @@ winhex_diff_viewer plugin for ida pro
 
 ## install plugin, Installation and Use ##
 
-1 To install, copy the contents of the plugins directory in this repository to your %PROGRAMFILES%\IDA\plugins folder. 
-2 open ida ,select menu edit->plugins->winhex_diff_viewer.
-3 open winhex compare result diff text file.
-4 waitting plugin process end finished
+- 1 To install, copy the contents of the plugins directory in this repository to your %PROGRAMFILES%\IDA\plugins folder. 
+- 2 open ida ,select menu edit->plugins->winhex_diff_viewer.
+- 3 open winhex compare result diff text file.
+- 4 waitting plugin process end finished
 
 ## plugin, demo and video ##
 v0.37
