@@ -23,9 +23,10 @@ winhex_diff_viewer plugin for ida pro
 
 ## plugin, demo and video ##
 v0.37
+https://www.bilibili.com/video/BV1r841187FM/
+v0.36.2
 https://www.bilibili.com/video/BV1cG411c7fU/
-
-v0.36
+v0.36.1
 https://www.bilibili.com/video/BV1FG4y1b7mK/
 
 ![image](https://user-images.githubusercontent.com/9524903/201801972-71e2e7be-4262-4e20-ab87-9a91f3be3cf5.png)
