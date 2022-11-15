@@ -21,13 +21,16 @@ winhex_diff_viewer plugin for ida pro
 - 3 open winhex compare result diff text file.
 - 4 waitting plugin process end finished
 
-## plugin, demo and video ##
+## plugin, demo and screenshot and video ##
+
 v0.37
-https://www.bilibili.com/video/BV1r841187FM/
+- https://www.bilibili.com/video/BV1r841187FM/
+
 v0.36.2
-https://www.bilibili.com/video/BV1cG411c7fU/
+- https://www.bilibili.com/video/BV1cG411c7fU/
+
 v0.36.1
-https://www.bilibili.com/video/BV1FG4y1b7mK/
+- https://www.bilibili.com/video/BV1FG4y1b7mK/
 
 ![image](https://user-images.githubusercontent.com/9524903/201801972-71e2e7be-4262-4e20-ab87-9a91f3be3cf5.png)
 ![image](https://user-images.githubusercontent.com/9524903/201802113-6460639a-407e-46aa-af32-ee9105f99136.png)
