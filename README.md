@@ -21,6 +21,11 @@ winhex_diff_viewer plugin for ida pro
 - 3 open winhex compare result diff text file.
 - 4 waitting plugin process end finished
 
+## other id pro plugin recommend ##
+- ida_all_xrefs_from_viewer https://github.com/zengfr/ida_all_xrefs_from_viewer-plugin-for-ida-pro
+- ida_all_xrefs_to_viewer https://github.com/zengfr/ida_all_xrefs_to_viewer-plugin-for-ida-pro
+- winhex_diff_viewer-plugin https://github.com/zengfr/winhex_diff_viewer-plugin-for-ida-pro
+
 ## plugin, demo and screenshot and video ##
 
 v0.37
